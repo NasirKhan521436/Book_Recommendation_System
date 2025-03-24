@@ -57,7 +57,7 @@ pip install -r requirements.txt
 python app.py
 - Open your browser and visit: `http://127.0.0.1:5000/`
 
----
+--
 
 ## 🎯 **How to Use It?**
 1. Run The application
