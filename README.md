@@ -65,14 +65,11 @@ python app.py
 3. **View recommended books** based on your preferences.
 4. **Search for specific books** and read details.
 ## 📷 **Screenshots**
-## Home Page
-![image](https://github.com/user-attachments/assets/1daf4bff-5f9d-43c9-b519-6e47a4c19032)
-## Recommendation Page.  Enter book Name And You will get recommendations related to the book
-![image](https://github.com/user-attachments/assets/df26fd89-3df9-42a4-b39a-4a687e0fc99b)
-![image](https://github.com/user-attachments/assets/331e0411-ab43-47bc-9c20-93121157a98e)
-![image](https://github.com/user-attachments/assets/78e9e313-acb5-4fd4-94be-3f4c5a503869)
-![image](https://github.com/user-attachments/assets/5bf2ea54-e107-4fec-a1a4-aa72e1fbc7dc)
+Home Page
 
+
+
+Recommendation Page
 ## 🤝 **Contributing**
 We welcome contributions! Follow these steps:
 1. **Fork the repository**
