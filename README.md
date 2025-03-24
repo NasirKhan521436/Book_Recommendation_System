@@ -1,22 +1,22 @@
 # 📚 Book Recommendation System
 
-An **AI-powered Book Recommendation System** designed to suggest books based on user preferences, ratings, and content similarity. Built with **Python, Machine Learning, and Flask**, this system enhances the reading experience by recommending books tailored to individual tastes.
+An **AI-powered Book Recommendation System** that suggests books based on user preferences, ratings, and content similarity. This system is built with **Python, Machine Learning, and Flask**, enhancing the reading experience by providing personalized book recommendations.
 
 ---
 
-## 🚀 **Project Overview**
-The **Book Recommendation System** leverages data science techniques to provide personalized book recommendations. It analyzes book features, user ratings, and content to suggest relevant books.
+## 🚀 Project Overview
+The **Book Recommendation System** uses data science techniques to analyze book features, user ratings, and content to provide accurate recommendations.
 
 ### **Features:**
-- 📖 **Personalized Recommendations** based on user history
+- 📚 **Personalized Recommendations** based on user preferences
 - ⭐ **Content-Based & Collaborative Filtering** for accurate suggestions
-- 🔍 **Search Functionality** to find books quickly
+- 🔍 **Search Functionality** to quickly find books
 - 📊 **User Ratings & Reviews Analysis**
 - 🖥️ **Interactive Web Interface** built with Flask
 
 ---
 
-## 🏗️ **Tech Stack Used**
+## 🏗️ Tech Stack Used
 | Technology | Purpose |
 |------------|---------|
 | **Python** | Core programming language |
@@ -28,11 +28,11 @@ The **Book Recommendation System** leverages data science techniques to provide 
 
 ---
 
-## 🔧 **Installation & Setup**
+## 🔧 Installation & Setup
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/NasirKhan521436/Book_Recommendation_System.git
+git clone your git repository
 cd Book_Recommendation_System
 ```
 
@@ -55,22 +55,35 @@ pip install -r requirements.txt
 ### 5️⃣ **Run the Application**
 ```bash
 python app.py
+```
 - Open your browser and visit: `http://127.0.0.1:5000/`
 
---
+---
 
-## 🎯 **How to Use It?**
-1. Run The application
+## 🎯 How to Use It?
+1. RUN THE APPLICATION
 2. **Enter your favorite books** or select genres of interest.
 3. **View recommended books** based on your preferences.
 4. **Search for specific books** and read details.
-## 📷 **Screenshots**
-Home Page
+---
 
+## 📷 Screenshots
 
+### Home Page
+![Home Page](assets/Homepage.png)
 
-Recommendation Page
-## 🤝 **Contributing**
+### Recommendation Page
+![Recommendation Page](assets/RecommendationPage.png)
+
+![Recommendation Example](assets/Picture6.png)
+
+![Book Details](assets/Picture7.png)
+![Book Details](assets/Picture8.png)
+![Book Details](assets/Picture9.png)
+
+---
+
+## 🤝 Contributing
 We welcome contributions! Follow these steps:
 1. **Fork the repository**
 2. **Create a new branch** (`feature-new-feature`)
@@ -80,11 +93,11 @@ We welcome contributions! Follow these steps:
 
 ---
 
-## 📜 **License**
+## 📝 License
 This project is **open-source** and available under the **MIT License**.
 
 ---
 
-### 🌟 **Give a Star!**
+### ⭐ Give a Star!
 If you find this project useful, don't forget to ⭐ the repository!
 
