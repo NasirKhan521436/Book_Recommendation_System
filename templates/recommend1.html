@@ -1,0 +1,33 @@
+<!-- recommend.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Recommendation</title>
+</head>
+<body>
+    <h1>Book Recommendation</h1>
+
+    <form method="post" action="/recommend_books">
+        <input type="text" name="user_input" placeholder="Enter User ID" required>
+        <button type="submit">Recommend</button>
+    </form>
+
+    {% if error %}
+        <p style="color: red;">{{ error }}</p>
+    {% endif %}
+
+    {% if data %}
+        <h2>Recommended Books</h2>
+        <ul>
+            {% for item in data %}
+                <li>
+                    <p><strong>{{ item[0] }}</strong> by {{ item[1] }}</p>
+                    <img src="{{ item[2] }}" alt="Book cover">
+                </li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>
